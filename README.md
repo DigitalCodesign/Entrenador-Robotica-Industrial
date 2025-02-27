@@ -110,7 +110,3 @@ Este repositorio contiene el código fuente de Arduino para controlar un brazo r
 ## Contribución
 
 Siéntete libre de contribuir a este proyecto enviando solicitudes de extracción o abriendo incidencias.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT.
